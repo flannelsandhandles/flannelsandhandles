@@ -45,4 +45,10 @@ $(document).ready(function() {
 		$("#o5").show();
 	})
 	*/
+	
+	$("#strip-button").click(function() {
+		$(".outfit").fadeOut();
+		$("#body").fadeIn();
+	})
+
 })
