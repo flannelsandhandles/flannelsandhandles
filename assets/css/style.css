@@ -95,7 +95,7 @@ body {
 	right: 15%;
 	bottom: 40%;
 	font-size: 1.5em;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	color: rgb(254, 255, 252);
 	background: rgb(255, 84, 94);
 	padding: 10px;
